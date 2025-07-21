@@ -19,6 +19,13 @@ Data Cleaning & Feature Engineering
 
 SMOTE for class balancing
 
+
+#ADDED APP1
+Model to reflecct application of model
+
+
+
+
 Model Training & Evaluation
 
 Hyperparameter Tuning
